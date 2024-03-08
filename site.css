@@ -17543,7 +17543,6 @@ body {
     font-weight: normal;
     line-height: 1.67em;
     font-size: 14px;
-    font-family: proxima-nova;
     font-weight: 500;
     font-style: normal;
     line-height: 21px;
@@ -19719,7 +19718,7 @@ html.touch .autohide-footer #navigator footer#bottomBar {
 }
 
 #block-yui_3_17_2_42_1514265146343_13958 p {
-    font-size: 13.5px;
+    font-size: 12px;
     letter-spacing: .1357px;
     font-weight: 500;
     line-height: 20px;
